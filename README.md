@@ -1,16 +1,6 @@
-# JavaScript Problems
-Common JavaScript Problems
-- count truthy
-- demerit points
-- fizz buzz
-- string properties of objects
-- sum of multiple of 3 and 5
-- find grades
-- show stars
-- show prime numbers 
+# Learning JavaScript
+This repository contains all the basic files for learning JavaScript. This should be seen from the perspective of a developer who knows the very basic concepts, e.g - `variables`,`data types`,`functions` etc.
 
-# Learning outcomes
-- Single Responsibility Principles
-- Writing cleaner and shorter codes
-- Using cool variable names
-- Optimizing code speed for performance
+# Folder Structure
+- basic problems
+- objects

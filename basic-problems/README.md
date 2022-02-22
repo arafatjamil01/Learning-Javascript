@@ -8,7 +8,7 @@
 - show stars
 - show prime numbers 
 
-# Learning outcomes
+## Learning outcomes
 - Single Responsibility Principles
 - Writing cleaner and shorter codes
 - Using cool variable names

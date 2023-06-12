@@ -3,6 +3,10 @@ This repository contains all the basic files for learning JavaScript. This shoul
 
 Understood `constructor function`, `factory function`, `dynamic nature of objects`.
 
+Learned the differences between `primitive` type and `reference` types.
+
+Learned `object iteration`, `object cloning`, differences between array and object iteration loops.
+
 # Folder Structure
 - basic problems
 - objects

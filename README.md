@@ -7,6 +7,10 @@ Learned the differences between `primitive` type and `reference` types.
 
 Learned `object iteration`, `object cloning`, differences between array and object iteration loops.
 
+Learned how to write and formate using `date constructor`, create server, client and user readable dates.
+
+
+
 # Folder Structure
 - basic problems
 - objects

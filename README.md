@@ -9,7 +9,7 @@ Learned `object iteration`, `object cloning`, differences between array and obje
 
 Learned how to write and formate using `date constructor`, create server, client and user readable dates.
 
-
+Creating a blog object, title, body and other necessary info, using a constructor function.
 
 # Folder Structure
 - basic problems

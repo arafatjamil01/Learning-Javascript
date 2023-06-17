@@ -21,3 +21,6 @@ Creating a blog object, title, body and other necessary info, using a constructo
 - Sorting value and reference type arrays
 - Array methods ( every, some etc.)
 - Filtering arrays
+- Array Map
+- Chaining Array methods
+- Array reduce method

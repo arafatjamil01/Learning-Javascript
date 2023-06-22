@@ -1,20 +1,21 @@
 # Learning JavaScript
+
 This repository contains all the basic files for learning JavaScript. This should be seen from the perspective of a developer who knows the very basic concepts, e.g - `variables`,`data types`,`functions` etc.
 
 ## Objects
 
-Understood `constructor function`, `factory function`, `dynamic nature of objects`.
-
-Learned the differences between `primitive` type and `reference` types.
-
-Learned `object iteration`, `object cloning`, differences between array and object iteration loops.
-
-Learned how to write and formate using `date constructor`, create server, client and user readable dates.
-
-Creating a blog object, title, body and other necessary info, using a constructor function.
-
+- Constructor function
+- Factory function
+- Dynamic nature of objects.
+- Primitive vs reference types.
+- Object iteration
+- Object cloning
+- Array iteration vs object iteration
+- Date constructor and different formats of date
+- Blog related practice, using constructor
 
 ## Arrays
+
 - Array operations ( adding, removing, slicing, emptying etc), using loops, spread operator etc.
 - Joining, splitting array and string
 - Iterating over arrray
@@ -24,3 +25,12 @@ Creating a blog object, title, body and other necessary info, using a constructo
 - Array Map
 - Chaining Array methods
 - Array reduce method
+
+## Functions  
+
+- Declaration and Expression
+- Hoisting
+- Arguments
+- Rest operator
+- Default parameter
+- Getters and Setters

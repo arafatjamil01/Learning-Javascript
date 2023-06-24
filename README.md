@@ -34,3 +34,8 @@ This repository contains all the basic files for learning JavaScript. This shoul
 - Rest operator
 - Default parameter
 - Getters and Setters
+- Try catch block
+- Scope, local, global
+- var vs let keyword
+- Functions are objects, methods of a function.
+- this keyword, issues with this keyword in old JS version, multiple solution methods to properly use 'this' keyword

@@ -63,4 +63,4 @@ This repository contains all the basic files for learning JavaScript. This shoul
 - Resetting the constructor
 - Calling super constructor with .call method
 - Intermediate function Inheritance
-- 
+- Method Overriding

@@ -17,4 +17,4 @@ For example - Animals  canEat(), canWalk(), canSwim(), CanRun(), canFly()
 Now we can combine canEat(), canRun() and canWalk() in a new object called Mammal, and canFly() and canEat() in a new object called Bird. Now we can use these objects in the objects that need them.
 
 We can use mixins to do this. Mixins are a group of methods that we can use in other objects. We can use Object.assign() to copy the methods from the mixin to the object.
-/*
+*/

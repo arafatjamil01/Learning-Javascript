@@ -64,3 +64,5 @@ This repository contains all the basic files for learning JavaScript. This shoul
 - Calling super constructor with .call method
 - Intermediate function Inheritance
 - Method Overriding
+- Polymorphism
+- When to use Inheritance

@@ -75,4 +75,7 @@ This repository contains all the basic files for learning JavaScript. This shoul
 - Hoisting
 - Static methods
 - Private members using symbols
+- Private members using WeakMap 
 - The 'this' keyword behavior in class body
+- Getters and Setters in JS
+- Inheritance in JS

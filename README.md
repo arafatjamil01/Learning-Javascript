@@ -68,3 +68,4 @@ This repository contains all the basic files for learning JavaScript. This shoul
 - When to use Inheritance
 - Composition vs Inheritance
 - Using mixin function to create new objects
+- 

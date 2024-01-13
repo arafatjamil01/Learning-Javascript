@@ -79,3 +79,6 @@ This repository contains all the basic files for learning JavaScript. This shoul
 - The 'this' keyword behavior in class body
 - Getters and Setters in JS
 - Inheritance in JS
+- Method overriding
+- Stack implementation using ES6, weakmap, getter function and array
+
